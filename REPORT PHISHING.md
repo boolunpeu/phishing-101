@@ -1,22 +1,18 @@
 ---
 
----
-
----
-
 # ANALYSIS METHOD 
 
-Tools : 
+**Tools** : 
 
-**Phishtool (https://app.phishtool.com/analysis/)
+- Phishtool (https://app.phishtool.com/analysis/)
 
 ![Phishtool](https://github.com/boolunpeu/phishing-101/assets/131985567/11ea63e1-96ea-48c3-b0ce-ce9f05c4753b)
 
-**HTML
+- HTML
 
 ![html](https://github.com/boolunpeu/phishing-101/assets/131985567/30627b7c-1d82-461a-aefb-34ed3a2a7d6f)
 
-**Source 
+- Source 
 
 ![source](https://github.com/boolunpeu/phishing-101/assets/131985567/bea563cf-6ea5-46b8-a10a-f8085346c6be)
 
