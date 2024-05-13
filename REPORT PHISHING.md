@@ -2,7 +2,7 @@
 
 # ANALYSIS METHOD 
 
-**Tools** : 
+Tools: 
 
 - Phishtool (https://app.phishtool.com/analysis/)
 
