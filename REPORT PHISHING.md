@@ -28,7 +28,7 @@ What is the email's timestamp?
 	email_4.eml
 		:Fri, 3 Mar 2023 03:44:03 -0800 (PST)
 	email_5.eml
-		:at, 27 Aug 2022 09:42:11 +0000
+		:Sat, 27 Aug 2022 09:42:11 +0000
 
  Who is the email from?
  
