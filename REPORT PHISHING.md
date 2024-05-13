@@ -4,15 +4,16 @@
 
 **Phishtool** (https://app.phishtool.com/analysis/)
 
-![[Phishtool.png]]
+![Phishtool](https://github.com/boolunpeu/phishing-101/assets/131985567/f5428c4e-996f-4faf-8b98-acd99a508292)
 
 **HTML**
 
-![[html 1.png]]
+![html](https://github.com/boolunpeu/phishing-101/assets/131985567/f1f57b39-c022-4589-88bc-4e134724179c)
+
 
 **Source** 
 
-![[source.png]]
+![source](https://github.com/boolunpeu/phishing-101/assets/131985567/ac5e317d-9119-4b70-aed1-822875d390b5)
 
 ---
 # Question 
