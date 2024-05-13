@@ -2,19 +2,18 @@
 
 # ANALYSIS METHOD 
 
-Tools: 
+Phishtool : 
 
-- Phishtool (https://app.phishtool.com/analysis/)
+![Phishtool](https://github.com/boolunpeu/phishing-101/assets/131985567/4d2c9ad9-06e2-4f3d-985f-8a1ebaa04562)
 
-![Phishtool](https://github.com/boolunpeu/phishing-101/assets/131985567/11ea63e1-96ea-48c3-b0ce-ce9f05c4753b)
+Source (Header) :
 
-- HTML
+![source](https://github.com/boolunpeu/phishing-101/assets/131985567/1a70987d-49a5-4e3b-a1c4-67349444fb42)
 
-![html](https://github.com/boolunpeu/phishing-101/assets/131985567/30627b7c-1d82-461a-aefb-34ed3a2a7d6f)
+HTML Code :
 
-- Source 
+![html](https://github.com/boolunpeu/phishing-101/assets/131985567/8b10471b-15f6-4fd2-be26-99feddeb4764)
 
-![source](https://github.com/boolunpeu/phishing-101/assets/131985567/bea563cf-6ea5-46b8-a10a-f8085346c6be)
 
 ---
 # Question 
